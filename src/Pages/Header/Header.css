@@ -1,0 +1,16 @@
+.navbar-brand img{
+    width: 227px;
+}
+.navbar-light .navbar-nav .nav-link{
+    border-right: 1px solid #8f8c8c30;
+    padding: 23px 15px;
+    color: #3C3C3C;
+    font-size: 14px;
+}
+.active{
+    border-left: 1px solid #8f8c8c30;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    background: #244523;
+    color: #ffffff;
+}

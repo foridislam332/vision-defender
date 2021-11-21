@@ -1,0 +1,20 @@
+.mechainal_bg{
+    position: relative;
+}
+.mechainal_bg img{
+    width: 100%;
+}
+.mechanical_content{
+    position: absolute;
+    top: 105px;
+    left: 140px;
+}
+.mechanical_content h1 span{
+    color: #BAA983;
+}
+.mechanical_content h1{
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+    font-size: 50px;
+}
